@@ -7,7 +7,7 @@ INSERT INTO customer (
 VALUES (
   1, 
   'Cole Baidoo',
-  'cbaidoo@sandtechncom',
+  'cbaidoo@sandtech.com',
   '123 Happiness Ave.'
 )
 
